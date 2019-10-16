@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/example_website_routing/static/css/main.46280e49.chunk.css",
+    "main.js": "/example_website_routing/static/js/main.2a34759c.chunk.js",
+    "main.js.map": "/example_website_routing/static/js/main.2a34759c.chunk.js.map",
+    "runtime-main.js": "/example_website_routing/static/js/runtime-main.188ed2d4.js",
+    "runtime-main.js.map": "/example_website_routing/static/js/runtime-main.188ed2d4.js.map",
+    "static/js/2.36a279e1.chunk.js": "/example_website_routing/static/js/2.36a279e1.chunk.js",
+    "static/js/2.36a279e1.chunk.js.map": "/example_website_routing/static/js/2.36a279e1.chunk.js.map",
+    "index.html": "/example_website_routing/index.html",
+    "precache-manifest.e1e50e082e87bb50485239a195e9b68a.js": "/example_website_routing/precache-manifest.e1e50e082e87bb50485239a195e9b68a.js",
+    "service-worker.js": "/example_website_routing/service-worker.js",
+    "static/css/main.46280e49.chunk.css.map": "/example_website_routing/static/css/main.46280e49.chunk.css.map",
+    "static/media/header1.jpg": "/example_website_routing/static/media/header1.d77aa897.jpg",
+    "static/media/header2.jpg": "/example_website_routing/static/media/header2.e0236b91.jpg",
+    "static/media/header3.jpg": "/example_website_routing/static/media/header3.0fcc502c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.188ed2d4.js",
+    "static/js/2.36a279e1.chunk.js",
+    "static/css/main.46280e49.chunk.css",
+    "static/js/main.2a34759c.chunk.js"
+  ]
+}
